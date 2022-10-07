@@ -1,4 +1,4 @@
-#Sentence Analyzer 1.0, Idea and Programming by Cruxvelox
+#Sentence Analyzer 0.1.1, Idea and Programming by Cruxvelox
 #This is what does the user input
 print("Sentence Analyzer v0.1.1")
 input = input("Sentence to analyze: ")
