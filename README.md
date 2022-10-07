@@ -1,5 +1,5 @@
 # Digital-Clock
-## v0.0.0 dev
+## v0.1.1 dev
 Hello!
 This is my first ever repository in my GitHub account!
 This is simply a small digital clock that shows you the time.
